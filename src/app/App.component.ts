@@ -5,8 +5,7 @@ import { Component }          from '@angular/core';
   template: `
   <div align="center">
     <h1>{{title}}</h1>
-    <img border="0" alt="North Star Logo" src="/app/Assets/NorthStarIconOrangex250.png" width="250" height="250">
-    <h3>{{company}}</h3>
+    <img border="0" alt="North Star Logo" src="/app/Assets/laughingman.gif" width="250" height="250">
     </div>
     <nav>
       <a routerLink="/dashboard" routerLinkActive="active">Dashboard</a>
